@@ -9,7 +9,7 @@ node_modules
 .pnp.*
 .npm
 web_modules/
-
+.idea/
 # blitz
 /.blitz/
 /.next/
